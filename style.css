@@ -84,3 +84,20 @@ h1{
     padding: 10px;
     
 }
+.rating{
+    display: flex;
+    margin-bottom: 40px;
+    margin-left: 20%;
+    margin-right: 20%;
+    border-radius: 15px;
+    box-shadow: 5px 5px 80px rgb(224, 224, 224);
+    padding: 10px 10px;
+}
+
+.follower_rating{
+    
+    font-weight:bold;
+    margin-left: 20%;
+    text-align: center;
+}
+

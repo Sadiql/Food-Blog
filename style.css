@@ -1,0 +1,40 @@
+body{
+    font-family: 'Uchen', serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+
+.orang_color{
+    color: rgb(161, 31, 102);
+}
+
+.first_container{
+    display: flex;
+    margin-bottom: 200px;
+}
+
+.half_width{
+    width: 50%;
+    padding-left: 2%;
+    margin-top: 50px;
+    margin-left: 10px;
+    padding-top: 80px;
+    
+}
+.set_image img{
+    width: 55%;
+    float: right;
+    margin-top: 40px;
+    padding-right: 10%;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(121, 18, 18), rgb(124, 85, 231));
+    font-weight: 700;
+    padding: 10px 15px;
+    color: white;
+    border-radius: 20px;
+    
+}

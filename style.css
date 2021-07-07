@@ -12,7 +12,7 @@ h1{
 
 .first_container{
     display: flex;
-    margin-bottom: 200px;
+    margin-bottom: 100px;
 }
 
 .half_width{
@@ -100,4 +100,16 @@ h1{
     margin-left: 20%;
     text-align: center;
 }
+.first_footer{
+    background-color: black;
+    height: 180px;
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+    margin-bottom: 20px;
 
+}
+.orang{
+    color: orangered;
+}

@@ -20,7 +20,7 @@ h1{
     padding-left: 2%;
     margin-top: 50px;
     margin-left: 10px;
-    padding-top: 80px;
+    padding-top: 60px;
     
 }
 .set_image img{
@@ -37,4 +37,24 @@ h1{
     color: white;
     border-radius: 20px;
     
+}
+.second_container{
+    display: flex;
+
+    background-image: url(images/fourth_pic.png);
+    background-repeat: no-repeat;
+    background-size: 2040px 600px ;
+    
+    /* height: 500px; */
+
+}
+.second_container img{
+    width: 70%;
+}
+.second_container_content{
+    text-align: justify;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    margin-bottom: 100px;
 }
